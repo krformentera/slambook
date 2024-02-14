@@ -3101,6 +3101,8 @@ id accessibility_custom_action_6
 id accessibility_custom_action_7
 id accessibility_custom_action_8
 id accessibility_custom_action_9
+id account_name
+id account_welcome
 id actionDown
 id actionDownUp
 id actionUp
@@ -3124,6 +3126,9 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id add_more_btn
+id add_person_btn
+id address_input
 id alertTitle
 id aligned
 id all
@@ -3142,6 +3147,7 @@ id autoCompleteToEnd
 id autoCompleteToStart
 id barrier
 id baseline
+id bday_input
 id beginOnFirstDraw
 id beginning
 id bestChoice
@@ -3239,6 +3245,7 @@ id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
 id fade
+id femaleBtn
 id fill
 id fill_horizontal
 id fill_vertical
@@ -3258,6 +3265,7 @@ id frost
 id fullscreen_header
 id ghost_view
 id ghost_view_holder
+id goals_input
 id gone
 id graph
 id graph_wrap
@@ -3266,6 +3274,7 @@ id grouping
 id groups
 id header_title
 id hideable
+id hobbies_input
 id home
 id homeAsUp
 id honorRequest
@@ -3300,6 +3309,7 @@ id listMode
 id list_item
 id login_btn
 id m3_side_sheet
+id maleBtn
 id marquee
 id masked
 id match_constraint
@@ -3327,6 +3337,7 @@ id material_value_index
 id matrix
 id message
 id middle
+id middlename_input
 id mini
 id month_grid
 id month_navigation_bar
@@ -3377,6 +3388,7 @@ id north
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id number_input
 id off
 id on
 id onInterceptTouchReturnSwipe
@@ -3677,7 +3689,9 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_adding_person_ui
 layout activity_main
+layout activity_mainpage_ui
 layout activity_registration_ui
 layout custom_dialog
 layout design_bottom_navigation_item

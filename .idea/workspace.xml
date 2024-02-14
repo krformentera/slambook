@@ -8,12 +8,22 @@
       </config>
     </shared>
     <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_adding_person.xml">
+        <config>
+          <theme>@style/Theme.Login_UI</theme>
+        </config>
+      </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
         <config>
           <theme>@style/Theme.Login_UI</theme>
         </config>
       </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_registration_ui.xml">
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main_page.xml">
+        <config>
+          <theme>@style/Theme.Login_UI</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_registration.xml">
         <config>
           <theme>@style/Theme.Login_UI</theme>
         </config>
@@ -68,7 +78,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/walke/Documents/GitHub/Acads/3EG1/Login_UI",
+    "last_opened_file_path": "C:/Users/walke/Documents/GitHub/Acads/3EG1/slambook",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>

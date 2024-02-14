@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">Login_UI</string>
+    <string name="acstxt_welcomeback">Welcome Back!</string>
+    <string name="acs_password">Password</string>
+    <string name="acs_username">Username</string>
+    <string name="acs_login">Login</string>
+    <string name="acs_signup">Sign up</string>
+    <string name="acstxt_username_and_password">Enter your Username and Password</string>
+    <string name="regtxt_sign_up">SIGN UP</string>
+    <string name="regtxt_username">Username*</string>
+    <string name="reginput_username">Enter Username</string>
+    <string name="regtxt_password">Password*</string>
+    <string name="reginput_password">Enter Password</string>
+    <string name="regtxt_confirm_password">Confirm Password*</string>
+    <string name="reginput_confirm_password">Confirm Password</string>
+    <string name="regtxt_firstname">Firstname*</string>
+    <string name="reginput_firstname">Enter First Name</string>
+    <string name="regtxt_lastname">Lastname*</string>
+    <string name="reginput_lastname">Enter Last Name</string>
+    <string name="regtxt_email">Email*</string>
+    <string name="reginput_email">Enter Email</string>
+    <string name="regtxt_gender">Gender*</string>
+    <string name="reginput_male">Male</string>
+    <string name="reginput_female">Female</string>
+    <string name="regbtn_submit">Submit</string>
+    <string name="maintxt_welcome">Welcome!</string>
+    <string name="maintxt_name">Name</string>
+    <string name="mainbtn_addperson">Add Person</string>
 </resources>

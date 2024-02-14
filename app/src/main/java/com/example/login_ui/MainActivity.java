@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         Button signUpButton = findViewById(R.id.sign_up_btn);
         signUpButton.setOnClickListener(view -> {
             // Start the registration activity when the Sign Up button is clicked
-            Intent intent = new Intent(MainActivity.this, Registration_UI.class);
+            Intent intent = new Intent(MainActivity.this, Registration.class);
             startActivity(intent);
         });
     }

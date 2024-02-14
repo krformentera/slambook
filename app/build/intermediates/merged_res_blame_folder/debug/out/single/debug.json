@@ -1,142 +1,154 @@
 [
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.login_ui.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.login_ui.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\layout_activity_registration_ui.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\layout\\activity_registration_ui.xml"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/layout_activity_main.xml.flat",
-        "source": "com.example.login_ui.app-main-33:/layout/activity_main.xml"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.login_ui.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable-mdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.login_ui.app-pngs-27:/drawable-mdpi/ic_launcher_foreground.png"
+        "merged": "com.example.login_ui.app-merged_res-31:/layout_activity_mainpage_ui.xml.flat",
+        "source": "com.example.login_ui.app-main-33:/layout/activity_mainpage_ui.xml"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable_grim.png.flat",
-        "source": "com.example.login_ui.app-main-33:/drawable/grim.png"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable_addimage_icon.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\drawable\\addimage_icon.xml"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable_edit_icon.xml.flat",
-        "source": "com.example.login_ui.app-main-33:/drawable/edit_icon.xml"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/layout_activity_registration_ui.xml.flat",
-        "source": "com.example.login_ui.app-main-33:/layout/activity_registration_ui.xml"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable_logout_icon.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\drawable\\logout_icon.xml"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable_addimage_icon.xml.flat",
-        "source": "com.example.login_ui.app-main-33:/drawable/addimage_icon.xml"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-pngs-27:\\drawable-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable_addphoto2_icon.xml.flat",
-        "source": "com.example.login_ui.app-main-33:/drawable/addphoto2_icon.xml"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable_add_icon.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\drawable\\add_icon.xml"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.login_ui.app-pngs-27:/drawable-xxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.login_ui.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-pngs-27:\\drawable-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/xml_backup_rules.xml.flat",
-        "source": "com.example.login_ui.app-main-33:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.login_ui.app-main-33:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable_login_bg.xml.flat",
-        "source": "com.example.login_ui.app-main-33:/drawable/login_bg.xml"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-pngs-27:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.login_ui.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\drawable\\rounded_corner.xml"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable-ldpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.login_ui.app-pngs-27:/drawable-ldpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.login_ui.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.login_ui.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable_addphoto2_icon.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\drawable\\addphoto2_icon.xml"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.login_ui.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable_settings_icon.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\drawable\\settings_icon.xml"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable_logout_icon.xml.flat",
-        "source": "com.example.login_ui.app-main-33:/drawable/logout_icon.xml"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\layout_activity_adding_person_ui.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\layout\\activity_adding_person_ui.xml"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable_rounded_corner.xml.flat",
-        "source": "com.example.login_ui.app-main-33:/drawable/rounded_corner.xml"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.login_ui.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-pngs-27:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable_add_icon.xml.flat",
-        "source": "com.example.login_ui.app-main-33:/drawable/add_icon.xml"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-pngs-27:\\drawable-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.login_ui.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-pngs-27:\\drawable-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable_account_icon.xml.flat",
-        "source": "com.example.login_ui.app-main-33:/drawable/account_icon.xml"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable_login_bg.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\drawable\\login_bg.xml"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable_settings_icon.xml.flat",
-        "source": "com.example.login_ui.app-main-33:/drawable/settings_icon.xml"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.login_ui.app-main-33:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.login_ui.app-pngs-27:/drawable-xhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable_account_icon.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\drawable\\account_icon.xml"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable-hdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.login_ui.app-pngs-27:/drawable-hdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable_back_icon.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\drawable\\back_icon.xml"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.login_ui.app-pngs-27:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.login_ui.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-pngs-27:\\drawable-ldpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable_back_icon.xml.flat",
-        "source": "com.example.login_ui.app-main-33:/drawable/back_icon.xml"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.login_ui.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.login_ui.app-merged_res-31:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.example.login_ui.app-pngs-27:/drawable-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable_edit_icon.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\drawable\\edit_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\layout_activity_mainpage_ui.xml.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\layout\\activity_mainpage_ui.xml"
+    },
+    {
+        "merged": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-merged_res-31:\\drawable_grim.png.flat",
+        "source": "C:\\Users\\walke\\.gradle\\daemon\\8.2\\com.example.login_ui.app-main-33:\\drawable\\grim.png"
     }
 ]

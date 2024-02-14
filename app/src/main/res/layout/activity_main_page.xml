@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_bg"
+    android:padding="5dp"
+    tools:context=".MainPage">
+
+    <TextView
+        android:id="@+id/account_welcome"
+        android:layout_width="match_parent"
+        android:textAlignment="center"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="20dp"
+        android:text="@string/maintxt_welcome"
+        android:textSize="54sp"
+        android:textColor="#242B53"
+        app:drawableRightCompat="@drawable/logout_icon" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:layout_below="@id/account_welcome" />
+
+    <TextView
+        android:id="@+id/account_name"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_below="@id/account_welcome"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/rounded_corner"
+        android:backgroundTint="#99000000"
+        android:gravity=""
+        android:padding="20dp"
+        android:text="@string/maintxt_name"
+        android:textColor="#03A9F4"
+        android:textSize="32sp"
+        app:drawableEndCompat="@drawable/edit_icon"
+        app:drawableLeftCompat="@drawable/account_icon" />
+
+    <Button
+        android:id="@+id/add_person_btn"
+        android:layout_width="250dp"
+        android:layout_height="80dp"
+        android:text="@string/mainbtn_addperson"
+        android:layout_below="@id/account_name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="350dp"
+        android:backgroundTint="#092B45"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:drawableLeft="@drawable/add_icon"
+        android:layout_marginBottom="20dp" />
+</RelativeLayout>
